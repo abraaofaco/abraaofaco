@@ -8,7 +8,7 @@ Veja alguns alguns dos projetos desenvolvidos durante os cursos:
 
 🚀 [Rocketseat] Bootcamp GoStack
 
-- [GoRestaurant Web](https://github.com/abraaofaco/-gostack-web-gorestaurant) 
+- [GoRestaurant Web](https://github.com/abraaofaco/gostack-web-gorestaurant) 
 - [GoRestaurant Mobile](https://github.com/abraaofaco/gostack-app-gorestaurant)
 - [Database Relations no Node](https://github.com/abraaofaco/gostack-node-database-relations) 
 - [GoMarketplace Mobile](https://github.com/abraaofaco/gostack-app-gomarketplace)
@@ -16,7 +16,7 @@ Veja alguns alguns dos projetos desenvolvidos durante os cursos:
 🏬 [Mobile Android] Digital House
 
 - [**`Projeto Integrador`** - A5+ Mobile](https://github.com/abraaofaco/projeto-integrador-tmdb-dh)
-- [Maver Mobile](https://github.com/abraaofaco/desafio-android-dh)
+- [Desafio Firebase Mobile](https://github.com/abraaofaco/desafio-firebase)
 - [OOP Kotlin](https://github.com/abraaofaco/desafio-oop-kotlin-dh)
 
 Adoro conversar sobre tecnologia. Estou ansioso para me conectar com você 👋🏻

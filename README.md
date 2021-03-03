@@ -15,7 +15,7 @@ Veja alguns alguns dos projetos desenvolvidos durante os cursos:
 
 🏬 [Mobile Android] Digital House
 
-- [**`Projeto Integrador`** - A5+ Mobile](https://github.com/abraaofaco/projeto-integrador-tmdb-dh)
+- [**`Projeto Integrador`** - A5+ Mobile](https://github.com/abraaofaco/projeto-integrador-dh)
 - [Desafio Firebase Mobile](https://github.com/abraaofaco/desafio-firebase)
 - [OOP Kotlin](https://github.com/abraaofaco/desafio-oop-kotlin-dh)
 
